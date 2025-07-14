@@ -1,1 +1,15 @@
 # AI-BASED-RECOMMENDATION-SYSTEM
+
+#company - CODTECH IT SOLUTIONS
+
+#name - GULNAWAJ
+
+#intern id - CT04DG2684
+
+#domain - JAVA PROGRAMMING
+
+#duration - 4WEEKS
+
+#mentor - NEELA SANTOSH
+
+#DESCRIPTION
