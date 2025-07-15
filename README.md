@@ -27,4 +27,5 @@ To find similarity, I used a simple dot product logic — if two users have give
 After finding the most similar user, the system recommends new movies that the new user hasn’t rated but the similar user has.
 
 #OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8e1cdb18-94e4-4902-862a-cc3958582435" />
 
